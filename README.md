@@ -1,4 +1,4 @@
-# C-Projects
+# C#-Projects
 Contains all the projects I have completed using C#
 Description: This is a 2D game where the player will be shown a side-view, single-screen platformer level made up blocks.  
 These blocks come in a variety of types including a goal flag, brick walls, blocks with spikes coming from the bottom, 
