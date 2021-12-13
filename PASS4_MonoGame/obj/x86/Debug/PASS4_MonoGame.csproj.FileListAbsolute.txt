@@ -1,0 +1,47 @@
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\crate.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\door.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\gem.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\goal.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\key.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\player.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\spikes.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\wall.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\PASS4_MonoGame.exe
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\PASS4_MonoGame.pdb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\obj\x86\Debug\PASS4_MonoGame.csprojAssemblyReference.cache
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\obj\x86\Debug\PASS4_MonoGame.csproj.CoreCompileInputs.cache
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\obj\x86\Debug\PASS4_MonoGame.csproj.CopyComplete
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\obj\x86\Debug\PASS4_MonoGame.exe
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\obj\x86\Debug\PASS4_MonoGame.pdb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\bg.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Fonts\command font.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\command bg.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\command legend.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\empty bar.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\progress bar.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\game bg.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\exit button.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\highscores button.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\instructions button.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\play button.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\return to menu.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\highscores.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\instructions.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\back.xnb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\PASS4_MonoGame\PASS4_MonoGame\bin\Windows\x86\Debug\Content\Images\Sprites\name entry bg.xnb

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/../../../../../../Pictures/Screenshots/empty bar.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/../../../../../../Pictures/Screenshots/game bg.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/../../../../../../Pictures/Screenshots/progress bar.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/../../../../../back.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/../../../../../gem.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/../../../../../goal.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/../../../../../key.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/../../../../../player.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/../../../../../wall.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Fonts/command font.spritefont</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/bg.jpg</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/command bg.jpg</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/command legend.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/crate.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/door.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/exit button.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/highscores button.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/highscores.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/instructions button.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/instructions.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/name entry bg.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/play button.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/return to menu.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/ICS4/Assigments/PASS4_MonoGame/PASS4_MonoGame/Content/Images/Sprites/spikes.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Images/Sprites/empty bar.png</File>
+    <File>Images/Sprites/game bg.png</File>
+    <File>Images/Sprites/progress bar.png</File>
+    <File>Images/Sprites/back.png</File>
+    <File>Images/Sprites/gem.png</File>
+    <File>Images/Sprites/goal.png</File>
+    <File>Images/Sprites/key.png</File>
+    <File>Images/Sprites/player.png</File>
+    <File>Images/Sprites/wall.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
